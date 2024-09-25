@@ -63,5 +63,5 @@ Dưới đây là một số tài liệu và nguồn tài nguyên hữu ích đ�
 - **Cộng đồng Web Scraping trên Stack Overflow**: [Web Scraping Tag trên Stack Overflow](https://stackoverflow.com/questions/tagged/web-scraping)
 - **Tài liệu Selenium**: [Selenium Documention](https://www.selenium.dev/documentation/)
 
-Những tài liệu này sẽ giúp bạn nắm vững hơn về cách xây dựng và tối ưu hóa các crawler cho các ứng dụng của mình.
+Những tài liệu này sẽ giúp mọi người nắm vững hơn về cách xây dựng và tối ưu hóa các crawler cho các ứng dụng của mình.
 
